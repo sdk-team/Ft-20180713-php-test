@@ -1,6 +1,6 @@
 {
   "name": "alibabacloud/ft-20180713-test",
-  "description": "Alibaba Cloud Ft(v20180713) SDK Library for PHP",
+  "description": "Alibaba Cloud Ft (20180713) SDK Library for PHP",
   "type": "library",
   "license": "Apache-2.0",
   "authors": [

@@ -5,7 +5,7 @@ namespace AlibabaCloud\SDK\Ft\V20180713\Models\BatchAuditTest01Response;
 
 use AlibabaCloud\Tea\Model;
 
-use AlibabaCloud\SDK\Ft\V20180713\Models\demo01\demo011;
+use AlibabaCloud\SDK\Ft\V20180713\Models\BatchAuditTest01Response\demo01\demo011;
 
 class demo01 extends Model {
     protected $_name = [
@@ -32,7 +32,7 @@ class demo01 extends Model {
     }
     /**
      * @description Demo011
-     * @var demo01.demo011
+     * @var demo011
      */
     public $demo011;
 

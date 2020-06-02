@@ -57,7 +57,7 @@ class BatchAuditTest01Response extends Model {
 
     /**
      * @description Demo01
-     * @var BatchAuditTest01Response.demo01
+     * @var demo01
      */
     public $demo01;
 

@@ -1,3 +1,6 @@
+2020-06-02 Version: 1.0.8
+- Generated php 2018-07-13 for Ft 1591099325896.
+
 2020-06-02 Version: 1.0.7
 - Generated php 2018-07-13 for Ft 1591099086477.
 

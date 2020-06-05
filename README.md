@@ -2,7 +2,7 @@
 
 ![](https://aliyunsdk-pages.alicdn.com/icons/AlibabaCloud.svg)
 
-## Alibaba Cloud Ft (20180713) SDK Library for PHP
+## Alibaba Cloud Ft(v20180713) SDK Library for PHP
 
 ## 安装
 
